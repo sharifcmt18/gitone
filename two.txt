@@ -3,4 +3,8 @@ two 22
 =======
 two t1
 >>>>>>> main
-ar akta 2
+<<<<<<< HEAD
+
+=======
+bangla 2
+>>>>>>> staging
